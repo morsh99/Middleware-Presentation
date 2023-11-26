@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "lCff4dOoNSq0ti3fQz2qdFZIkDlivwhBUye5tfztsOc=",
+  "Source": "middleware2",
+  "BasePath": "_content/middleware2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "middleware2\\wwwroot",
+      "Source": "middleware2",
+      "ContentRoot": "C:\\Users\\sharifi\\ASP.NET\\9-azar\\middleware2\\middleware2\\wwwroot\\",
+      "BasePath": "_content/middleware2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\sharifi\\ASP.NET\\9-azar\\middleware2\\middleware2\\wwwroot\\text.txt",
+      "SourceId": "middleware2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sharifi\\ASP.NET\\9-azar\\middleware2\\middleware2\\wwwroot\\",
+      "BasePath": "_content/middleware2",
+      "RelativePath": "text.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\text.txt"
+    }
+  ]
+}
